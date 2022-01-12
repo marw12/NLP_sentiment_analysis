@@ -30,11 +30,7 @@ are tabulated.
 The following table shows the performance of the logistic regression model with different
 parameter settings, measured by the F1 score (F1 = 2 * (precision * recall) / (precision + recall))
 
-|       Unigram      |       Bigram       |
-|------------------- |------------------- |
-| Lemmatize |  Stem  | Lemmatize |  Stem  |
-|--------------------|--------------------|
-|   0.760   |  0.765 |   0.672   |  0.665 |
+![image](https://user-images.githubusercontent.com/38390514/149220926-4f392605-7d48-40c4-adb3-556b18d74d00.png)
 
 
 ### Conclusion
